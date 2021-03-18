@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117656158230",
+    "project_id": "kotlin-14cf2",
+    "storage_bucket": "kotlin-14cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117656158230:android:f15a770292f6a1e3a53537",
+        "android_client_info": {
+          "package_name": "com.imeja.counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117656158230-9eg1rjvs0dg6murbji8kv8bbjp7n80on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBap7LLrEiloUOstbAxBxmIOy_oCFRb5KU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117656158230-9eg1rjvs0dg6murbji8kv8bbjp7n80on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
